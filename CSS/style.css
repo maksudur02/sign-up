@@ -1,0 +1,56 @@
+*{
+    margin:0
+    padding:0 
+}
+body{
+    margin:auto
+}
+#sign-up{
+    background-color:turquoise;
+    width=50%
+    text-align: center;
+    margin: 75px auto;
+    color:white ;
+
+} 
+#sign-up img{
+    text-align: center;
+    width:150px;
+    display:block;
+    margin: auto;
+}
+#sign-up h1{
+    text-align: center;
+    color:white
+}
+input{
+    width:90%
+    back
+    color:white;
+    width:90%;
+    background-color: transparent;
+    padding:8px;
+    color:black;
+    margin-top:10px;
+    border: redius 10px;
+}
+    input::placeholder{
+           color:black;
+    }
+    .btn{
+        width:92%;
+        margin-bottom:20px;
+        background-color: white;
+        color:turquoise;
+        border:none
+    }
+
+form{
+    text-align: center;
+}
+a{
+    color:white;
+    margin-bottom:20px;
+    text-decoration:none;
+    text-align:center;
+}
